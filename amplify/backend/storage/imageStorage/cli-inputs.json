@@ -1,0 +1,14 @@
+{
+  "resourceName": "imageStorage",
+  "policyUUID": "059e8a30",
+  "bucketName": "mybucket-test-junqi",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
