@@ -49,6 +49,8 @@
 
 // export default withAuthenticator(App);
 
+import { Storage } from 'aws-amplify';
+
 import React, { useState, useEffect } from "react";
 import "./App.css";
 import "@aws-amplify/ui-react/styles.css";
